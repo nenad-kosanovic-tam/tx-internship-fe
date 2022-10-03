@@ -4,7 +4,7 @@ Application will be used by employees to request and office managers (OM) to pro
 
 
 #### Installation
-Run 'npm install' to install all required dependencies
+
 
 #### Available Scripts
 In the project directory, you can run:
